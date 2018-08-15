@@ -436,7 +436,7 @@ msgid "Plutonium"
 msgstr ""
 
 #: src/Atom/Properties.vala:1700
-msgid "Americum"
+msgid "Americium"
 msgstr ""
 
 #: src/Atom/Properties.vala:1720
